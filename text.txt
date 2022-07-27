@@ -1,5 +1,3 @@
 text
 new line
 3rd line
-
-another line
